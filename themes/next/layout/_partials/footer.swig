@@ -1,4 +1,5 @@
 {%- if theme.footer.beian.enable %}
+
   <div class="beian">
     {{- next_url('https://beian.miit.gov.cn', theme.footer.beian.icp + ' ') }}
     {%- if theme.footer.beian.gongan_icon_url %}
@@ -45,9 +46,6 @@
 {%- if theme.footer.powered %}
   <div class="powered-by">
     {%- set next_site = 'https://theme-next.iissnan.com/getting-started.html' %}
-    {%- if theme.scheme !== 'Gemini' %}
-      {%- set next_site = 'https://' + theme.scheme | lower + '.theme-next.org' %}
-    {%- endif %}
     {{- __('footer.powered', next_url('https://hexo.io', 'Hexo', {class: 'theme-link'}) + ' & ' + next_url(next_site, 'NexT.' + theme.scheme, {class: 'theme-link'})) }}
   </div>
 {%- endif %}
