@@ -44,7 +44,7 @@
 
 {%- if theme.footer.powered %}
   <div class="powered-by">
-    {%- set next_site = 'https://theme-next.org' %}
+    {%- set next_site = 'https://theme-next.iissnan.com/getting-started.html' %}
     {%- if theme.scheme !== 'Gemini' %}
       {%- set next_site = 'https://' + theme.scheme | lower + '.theme-next.org' %}
     {%- endif %}
