@@ -16,6 +16,8 @@ categories:
 | `R`      | Reload current directory    |
 | `?`      | Ranger Manpages / Shortcuts |
 
+<!-- more -->
+
 ### Movement
 
 | Shortcut | Description          |
