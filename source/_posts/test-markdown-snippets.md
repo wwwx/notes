@@ -2,17 +2,23 @@
 title: test markdown snippets
 date: 2021-12-28 14:43:13
 tags: 
-- hello
+- vim
+- hexo
 categories:
-- hexo 
+- vim 
 ---
 
 
-# clear #
+```bash
+snippet head "Hexo post header" b
+---
+title: ${1:title}
+date: `!v strftime("%Y-%m-%d %H:%M:%S")`
+tags:
+- ${4}
+---
 
-```javascript
-function hello() {
-    console.log('Hello world;')
-}
+${0}
+endsnippet
 ```
 
