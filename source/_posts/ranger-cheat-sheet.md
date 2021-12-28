@@ -1,10 +1,11 @@
 ---
-title: Ranger cheat sheet
+title: Ranger Cheat Sheet
 tags:
+  - linux
   - shell
-  - vim
 categories:
-  - shell
+  - linux
+  - cheatsheet
 ---
 
 ### General

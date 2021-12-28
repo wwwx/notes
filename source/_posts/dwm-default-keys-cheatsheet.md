@@ -5,6 +5,7 @@ tags:
   - dwm
 categories:
   - linux
+  - cheatsheet
 ---
 
 ### Basic
