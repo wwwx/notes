@@ -1,4 +1,4 @@
 ### start server
 ```
-pm2 start run.js --name="hexo notes"
+pm2 start run.js --name="notes"
 ```
