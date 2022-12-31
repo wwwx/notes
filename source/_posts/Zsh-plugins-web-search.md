@@ -1,13 +1,12 @@
 ---
-title: Zsh-plugins-web-search
+title: Zsh plugin - web-search
 date: 2022-12-31 16:44:37
 tags:
 ---
 
+### Custom search engine
 
-### 自定义搜索引擎
-
-修改~/.zshrc 文件，添加下面这段代码：
+Open the ``~/.zshrc` file and write the following piece of code：
 
 ```bash
 ZSH_WEB_SEARCH_ENGINES=(
@@ -16,11 +15,12 @@ ZSH_WEB_SEARCH_ENGINES=(
 )
 ```
 
-例子：
+Example：
 
 ```bash
 ZSH_WEB_SEARCH_ENGINES=(youdao "https://www.youdao.com/result/?lang=en&word=")
 
-# 使用方法：youdao matrix
-# 存在的问题：不能接受中文字符作为参数，因此只能输入英文来查询中文翻译，无法中译英
+# useage：youdao matrix
+# issue: Chinese cannot be accepted as a parameter, so only English can be
+# input to query Chinese translation, not Chinese to English.
 ```
