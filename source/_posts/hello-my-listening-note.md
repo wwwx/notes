@@ -1,3 +1,10 @@
+---
+title: Easy way to exclude files during git add
+date: 2023-01-15 12:20:16
+tags:
+	- English
+---
+
 ### Primary level
 
 I dont like coffee.⭐️
@@ -7,6 +14,9 @@ That boy is running.⭐️
 They are pretty.⭐️
 We will keep it for you until you leave.⭐️
 The girls began to laugh.⭐️
+
+<!-- more  -->
+
 I am terribly hungry.⭐️
 I often see him .⭐️
 I play video games.⭐️
