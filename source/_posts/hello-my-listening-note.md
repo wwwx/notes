@@ -1,5 +1,5 @@
 ---
-title: Easy way to exclude files during git add
+title: Hello My Listening Note
 date: 2023-01-15 12:20:16
 tags:
 	- English
