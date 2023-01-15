@@ -26,3 +26,19 @@ tags:
 My anwser:
 
 The search for the missing survive on the night under generator power flood lights has been remembered with by amount degree thousand tears
+
+### [Day 27](https://www.bilibili.com/video/BV1U7411a7xG?p=27)
+
+**Superhero costumes, as usual, are big this year -- especially from recent movies like Thor and the Green Lantern**
+
+My anwser:
+
+Super hero custum as usual are all bigger this year, especially from ... ... movies, like soar, and ... lantern
+
+### [Day 28](https://www.bilibili.com/video/BV1U7411a7xG?p=28)
+
+**It's a pain, 'cuz my fridge is dumped it today, and the foods gone'**
+
+My anwser:
+
+It's a pain, cause a frigerd this afternoon today, and foods gone.
