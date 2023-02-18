@@ -142,3 +142,51 @@ jk### Primary level
 48. Did you enjoy youself at the party last night?
 49. The senator was censured by the congressional ethics committee.
 50. After she had lunch, she got ready to go out.
+
+## 2023-02-18
+
+### Primary level
+
+31. You can do it, can't you?
+32. I lost my watch.
+33. It's not so far.
+34. He is popular among us.
+35. He does not smoke.
+36. I'll wait for you.
+37. I regret having said so.
+38. Here's some water.
+39. come and see me.
+40. They have two daughters.
+41. Have you ever seen a Kangaroo.
+42. Excuse me, But may I open the window?
+43. I bought a few eggs and a little milk.
+44. My uncle has made me what I am today.
+45. This is their house.
+46. I usually take a bath before going to bed.
+47. Could you sign here?
+48. Have you called her yet?
+49. I've caught a cold.
+50. His English is quite good.
+
+### Intermidate level
+
+51. It seems that you are not having a good time here.
+52. According to my calculation , she should be in India by now.
+53. He visited his hometown for the first time in ten years.
+54. There is no admission fee for children under five.
+55. He wishes he had gone to the theater last night.
+56. A slip of the tongue is sometimes fatal to a politician.
+57. It is less muggy today than it was yesterday.
+58. My uncle comes to see me from time to time.
+59. He fell in love with her at first sight.
+60. He had his sister help him paint the wall of his room.
+61. Scientists haven't found a cure for cancer yet.
+62. The police assembled a lot of evidence against him.
+63. I think it's better for us to adopt his plan.
+64. He devoted the last years of his life to writing his autobiography.
+65. The girl was afraid to jump down from the roof.
+66. You speak so softly that I can't quite hear what you say.
+67. I'll always love you , no matter what happens.
+68. A good many people have told me to take a holiday.
+69. I don't see any reason why I have to apologize.
+70. It is extremely hot and humid in Bali in December.
