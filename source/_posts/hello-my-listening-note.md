@@ -190,3 +190,61 @@ jk### Primary level
 68. A good many people have told me to take a holiday.
 69. I don't see any reason why I have to apologize.
 70. It is extremely hot and humid in Bali in December.
+
+## 2023-02-18
+
+### Primary level
+
+51. This newspaper is free.
+52. Could you bring me a pillow and blanket, please?
+53. He lives next to me.
+54. Prices continued to rise.
+55. I can't do anything else.
+56. She is a very good teacher.
+57. I have an allegy to milk.
+58. These products are selling like hot cakes.
+59. Tom is eager to buy a new car.
+60. Are they Japanese.
+61. I'm very glad to see you.
+62. Don't be so angry.
+63. May I go to the toilet.
+64. His aunt looks young.
+65. Let me go alone.
+66. He didn't say a word.
+67. Would you please turn down the TV?
+68. She follows her brother wherever he goes.
+69. What did the doctor say?
+70. I've got to go now.
+
+### Intermidate level
+
+71. We were astonished to hear what had happened.
+72. I have to go shopping, I'll be back in an hour.
+73. He said he was tired, so he would go home early.
+74. The man sitting next to me spoke to me.
+75. He is going to be a doctor when he grows up.
+76. They awarded her first prize at the flower show.
+77. The end does not always justify the means.
+78. He couldn't stand the bitterness of the coffee.
+79. I knocked on the door, but nobody answered.
+80. Judging from the look of the sky, It may rain this afternoon.
+81. Prices are double what they were two years ago.
+82. After a couple of the drinks, the guy was feeling no pain.
+83. You must be at the station by 5 o'clock.
+84. This is the house I lived in when I was young.
+85. A rabbit has long ears and a short tail.
+86. He should apologize for being rude to the guests.
+87. I remember my mother teaching me the alphabet
+88. There are not many books on these shelfs.
+89. A blast of cold air swept through the house.
+90. After you have read it, give the book back to me.
+91. Her house is at the foot of a mountain.
+92. Nobody understood why the elephent suddenly turned on it's owener.
+93. I have to take my medicine every six hours.
+94. How long does it take to walk to the station?
+95. You are the one who decided to do this job, right?
+96. You will soon get accustomed to your new school.
+97. Between you and me, I think our boss is stupid.
+98. His death was a great loss to our firm.
+99. You've both been very impressive today, I'm proud of you.
+100.  I'm not a university student, but I'm brighter than them.
