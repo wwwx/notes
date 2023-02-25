@@ -248,3 +248,81 @@ jk### Primary level
 98. His death was a great loss to our firm.
 99. You've both been very impressive today, I'm proud of you.
 100.  I'm not a university student, but I'm brighter than them.
+
+## 2023-02-18
+
+### Primary level
+
+71. This box is full of books.
+72. Are you working?
+73. How's business
+74. Take good care of yourself
+75. The dog walked accross the street.
+76. He's always been kind to me.
+77. Where have you been this week?
+78. He has no children.
+79. Let me handle this.
+80. He is a student at a high school.
+81. This is a book.
+82. I want some water.
+83. He decided to go abroad.
+84. Every door in the house is locked.
+85. She adores cats.
+86. My sister takes paino lessons twice a week.
+87. When did you see them first?
+88. Tom goes to school on foot.
+89. Would you like anther apple?
+90. He speaks French.
+91. She kept him waiting for a long time.
+92. It's snowed in Osaka.
+93. I want to send this letter to Japan.
+94. Could you drive more slowly?
+95. This is what I was waiting for.
+96. He gave up smoking 2 years ago.
+97. I can undstand him perfectly.
+98. My dream is to be a firefighter.
+99. The pain is getting worse.
+100.  Hey, where are you going?
+101.  I saw a cat running after the dog.
+102.  He is trusted by his parents.
+103.  I slept 9 hours.
+104.  She can play the paino very well.
+105.  He often goes to Tokyo.
+106.  Choose between these two.
+107.  It's unusual for him to get up early.
+108.  He has a very expensive watch.
+109.  I will be here from Monday to Thursday.
+110.  Were you playing tennis yesterday morning?
+111.  He sent a card to Mary.
+112.  I hurt my elbow
+113.  You know quite a lot about Sumo.
+114.  Please make the bed.
+115.  It's a long way from here to school.
+116.  The weather forecast is not necessarily reliable.
+117.  What's your name?
+118.  Now stop crying.
+119.  I have an idea.
+120.  These aren't my books.
+
+### Intermidate level
+
+101. Having lived in Tokyo, I know the city well.
+102. We waited in the park for a long time.
+103. It's next to impossible to finish it in a day.
+104. He looked for every possible means of escape.
+105. It took us half an hour to setup the tent.
+106. I have two dogs, one is white and the other black.
+107. My cell phone has a built-in digital camera.
+108. My husband reads newpaper while eating breakfast.
+109. I live near the sea, so I often go to the beach.
+110. My wife's part-time job brings in a little extra money.
+111. I vowed that I would never speak to her again.
+112. The teach lined the children up in order of height.
+113. The train for Birmingham leaves from platform 3
+114. It took her a long time to choose a hat.
+115. He is as smart as any other boy in the class.
+116. I agree with what you say to some extent.
+117. As soon as she wakes up ,we will turn on the music.
+118. The fish he caught yesterday is still alive.
+119. If I'd known the truth, I'd have told you.
+120. It is easy for a monkey to climb a tree.
