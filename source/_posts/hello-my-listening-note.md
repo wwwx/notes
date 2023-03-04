@@ -191,7 +191,7 @@ jk### Primary level
 69. I don't see any reason why I have to apologize.
 70. It is extremely hot and humid in Bali in December.
 
-## 2023-02-18
+## 2023-02-19
 
 ### Primary level
 
@@ -249,7 +249,7 @@ jk### Primary level
 99. You've both been very impressive today, I'm proud of you.
 100.  I'm not a university student, but I'm brighter than them.
 
-## 2023-02-18
+## 2023-02-25
 
 ### Primary level
 
@@ -326,3 +326,71 @@ jk### Primary level
 118. The fish he caught yesterday is still alive.
 119. If I'd known the truth, I'd have told you.
 120. It is easy for a monkey to climb a tree.
+
+## 2023-03-04
+
+### Primary level
+
+121. He walked home.
+122. Will you stay at home?
+123. This problem is difficult to solve.
+124. She turned down my offer.
+125. Nothing is missing.
+126. Talking in the library in not allowed.
+127. Don't be afraid to make mistakes when speaking English.
+128. Her face turned red.
+129. I have a black and a white dog.
+130. No news is good news.
+131. I shouldn't have gotten up so early.
+132. I'd like to see your sister.
+133. What's your daughter's name?
+134. I'm coming.
+135. Is he right?
+136. My brother was killed in a traffic accident.
+137. You can study here.
+138. My sister is having a baby in june.
+139. How long did they live in England?
+140. Any day will do except Monday.
+141. No matter where you go , I'll follow you.
+142. Please take one.
+143. We have had plenty of snow this year.
+144. This is my dog.
+145. We didn't know what to do.
+146. What do you mean?
+147. I'll be absent tomorrow.
+148. It looks like snow.
+149. We are going to have a test today.
+150. These books are ours.
+
+### Intermidate level
+
+121. I don't feel very well, I should go gome.
+122. Were you able to do everything you wanted to get done?
+123. One good frend is better than 10 relatives.
+124. I couldn't prevent Tom from eating all the cookies.
+125. We have to sing at an old folks home today.
+126. We are looking forward to seeing you and your family.
+127. What do you want to be when you grow up.
+128. I would like to retract my previous statement.
+129. She spends a lot of time practicing the paino.
+130. The boss has a good opinion of your work.
+131. Their trip was postponed because of the rain.
+132. The fire broke out after the staff went home.
+133. I told you not to talk about the matter in her presence.
+134. My grandfather sometimes talks to himself when he is alone.
+135. He picked up a mirror and examined his tongue.
+136. Can you put up with the way he behaves.
+137. It was raining heavily when I got up this morning.
+138. I will come and see you one of these days.
+139. He was moved to tears when he heard the news.
+140. Water is liquid. when it freezes, it becomes solid.
+141. You've changed so much that I can hardly recongnize you.
+142. Hey, I may have no money, but I still have my pride.
+143. It is necessarily for you to go there immediately.
+144. I'd like to ask you a few more questions.
+145. The accident seemed have something to do with the heavy snow.
+146. I hate when other people make me wait a long time.
+147. The rivers were flooded by the heavy rain.
+148. The assignment took me longer than I had expected.
+149. Does he go to school on foot or by bicycle?
+150. I would like to have a look at your collection of stamps.
