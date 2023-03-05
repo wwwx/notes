@@ -394,3 +394,71 @@ jk### Primary level
 148. The assignment took me longer than I had expected.
 149. Does he go to school on foot or by bicycle?
 150. I would like to have a look at your collection of stamps.
+
+## 2023-03-04
+
+### Primary level
+
+151. He doesn't seem to be an American.
+152. He ovecame many difficulties.
+153. Make a copy of this report.
+154. Please turn on the TV.
+155. You may give the book to whoever wants it.
+156. Thank you for today.
+157. It almost never rains here.
+158. There is an orange on the table.
+159. My father's hobby is fishing.
+160. I can read Spanish easily.
+161. Wash your hands well.
+162. Somebody is playing the paino.
+163. The supermarket opens at ten o'clock.
+164. My was stolen last night.
+165. How long have you known her?
+166. Don't worry about that.
+167. Visitors may not feed the animals.
+168. He asked her if she knew him.
+169. What is the name of that river.
+170. Tomorrow is my day off.
+171. He is a good violinist.
+172. He owes his sucess to his parents.
+173. He is taking a walk.
+174. As a matter of fact, it is true.
+175. He is always with me.
+176. I wish I earned more money.
+177. How long is he going to stay in Japan.
+178. May I try it on?
+179. He became rich.
+180. I am from Tokyo.
+
+### Intermidate level
+
+151. Will you listen to me for a few minutes?
+152. Can you tell me where the nearest bus stop is?
+153. I'd love to find out why she said so.
+154. He rushed into the room with his coat on.
+155. The more books you read, the more you'll know.
+156. We have less than 5 minutes to evacuate the whole building.
+157. I wonder why they left my name off the list.
+158. About how much will I have to pay for all the treatments?
+159. She did not visit me on Sunday but on Monday.
+160. How large is the population of NewYork City?
+161. A group of young men are playing handball in the playground.
+162. I thought you'd be full after eating that big steak.
+163. It is cruel of him to say such things to her.
+164. My father will often read newspaper during the meals.
+165. We are out of tissue paper, so I need to go by some.
+166. It is more blessed to give than to recieve.
+167. I find it difficult to express my meaning in words.
+168. This car was so cheap that he could afford it.
+169. He has spent last ten years in jail for murder.
+170. Our eyes take time to adjust to the darkness.
+171. I ran as fast as possible to catch up with them.
+172. After reading his books I feel I can construct a house.
+173. I'm looking forward to hearing from you soon.
+174. I used to play alone when I was a child.
+175. The students were for the most part from the West Coast.
+176. I couldn't have done it without you , Thank you.
+177. The old houses were torn down to make room for a supermarket.
+178. He was kind enough to take me to the hospital.
+179. I haven't had time to look for what you wanted.
+180. I'm looking for a present for my mother.
