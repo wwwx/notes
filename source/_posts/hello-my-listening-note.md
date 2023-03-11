@@ -462,3 +462,101 @@ jk### Primary level
 178. He was kind enough to take me to the hospital.
 179. I haven't had time to look for what you wanted.
 180. I'm looking for a present for my mother.
+
+## 2023-03-11
+
+### Primary level
+
+181. I am tied up at the office.
+182. He has his own car.
+183. You and I have something in common.
+184. I heard someone calling my name.
+185. The cat is very cute.
+186. I asked him to start at once.
+187. I cought three fish yeasterday.
+188. The train was crowded.
+189. Wouldn't you like another glass of beer?
+190. He is very young.
+191. A horse runs quickly.
+192. Would you please write your name here?
+193. I want to eat something.
+194. She can't swim.
+195. I have no money to buy the dictionary.
+196. My hobby is collecting coins.
+197. Have you finished reading the novel?
+198. Have you seen my glasses anywhere?
+199. That's his specialty.
+200. Do you know the reason?
+201. Which company do you work for?
+202. Let me see it.
+203. This room doesn't get a lot of sun.
+204. Don't drive that car.
+205. Come to my house this afternoon.
+206. Don't change your mind.
+207. I called for help.
+208. The sooner, the better.
+209. The building was built in 1960.
+210. That kind of dress is now in fashion.
+211. The meeting, in short, was waste of time.
+212. I would like to go fishing, if possible.
+213. I hope my dream will come true.
+214. They made me go there.
+215. The box is almost empty.
+216. I had breakfast at 7:30.
+217. Some boys come into classroom.
+218. I'd like to travel by myself.
+219. I'm sorry to hear that.
+220. Is this ball yours or hers?
+221. We sat down face to face.
+222. Let's split the bill.
+223. My little brother can read English.
+224. Is this your fist trip abroad?
+225. Will you have another cup of milk?
+
+### intermediate
+
+181. With your approval , I would like to offer him the job.
+182. This book is for students whose native language is not Japanese.
+183. I don't want to work under these conditions.
+184. She was more beautiful than all the others.
+185. Where do you suppose you'll spend your vocation?
+186. She bought six yards of cloth for a dress.
+187. Don't be afraid of making mistakes when you speak English.
+188. I don't want to hear any more of your complaining.
+189. She maybe a nurse, I'm not sure.
+190. The air is thin at the top of a high mountain.
+191. This problem is too difficult for primary school children to solve.
+192. He make it a rule to take a walk every morning.
+193. How far is it from the airport to the hotel?
+194. I am just writing a letter to my girlfriend.
+195. Your've worked hard for months and have certainly earned a holiday.
+196. The potato was so hot that it burned my mouth.
+197. Quite by chance, I met my old friend in the airport.
+198. There must be a way to arrive at a diplomatic solution.
+199. You should have told me a long time ago.
+200. Ebola spreads from person t person through bodily fluids.
+201. Women eat lighter meals when they're eating with a guy.
+202. This airplane is capable of carrying 40 passengers at a time.
+203. I will provide you all the necessary information.
+204. It is said that the treasure is buried in this area.
+205. I hope he'll be able to come home, I would like to see him.
+206. I know him by name, but not by sight.
+207. The fact is that he didn't even take the exam.
+208. Could you please talk a bit louder? I can't hear it very well.
+209. If you can't come, you should let me know ahead of time.
+210. Can you wake me up at 7 o'clock tomorrow morning.
+211. Many school are closed today because of the storm.
+212. Where did you get the money to buy that dress.
+213. I have a friend whose father is a teacher.
+214. This book is easy enough for them to read.
+215. The first thing you have to take into consideration is time.
+216. Judging from the look of the sky, it is likely to rain.
+217. I felt so sleepy that I could hardly keep my eyes open.
+218. They came up with a plan after a long discussion.
+219. If I were in your place , I would lend him a hand.
+220. He is one of the greatest artists in Japan.
+221. A lot of people swim here in the summer.
+222. She stayed in that area for a short while.
+223. He does nothing but complian from morning till night.
+224. The whole neighborhood was surprised at the news.
+225. Books are for people who wish they were somewhere else.
