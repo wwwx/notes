@@ -561,7 +561,7 @@ jk### Primary level
 224. The whole neighborhood was surprised at the news.
 225. Books are for people who wish they were somewhere else.
 
-## 2023-03-11
+## 2023-03-12
 
 ### Primary level
 
@@ -658,3 +658,111 @@ jk### Primary level
 268. My son is now as tall as I am.
 269. A woman visited us while you were sleeping.
 270. I swear I will never do such a thing.
+
+## 2023-03-18
+
+### Primary level
+
+271. What is in this box?
+272. I don't like her.
+273. Did you have a good time yesterday?
+274. I would give it to you.
+275. I have been studying for two hours.
+276. She is a wealthy woman.
+277. I went hiking.
+278. She has been absent from school for five days.
+279. My wife is preparing for dinner right now.
+280. I love this picture.
+281. Bread is made from wheat.
+282. He has got a good camera.
+283. They are not interested in saving money.
+284. This is an automatic door.
+285. All of my friends like soccer.
+286. I'll give you a prescription.
+287. She rejected my proposal.
+288. What is the difference between A and B?
+289. I am tired of reading.
+290. That shop has many customers.
+291. He returned from Holland in June.
+292. Do it right now, before you forget.
+293. I don't like this watch.
+294. There are five pencils here.
+295. I'd like to see you again next week.
+296. I'm not a student.
+297. I don't know French.
+298. Is it hard to speak English?
+299. She has a dautghter who is a pianist.
+300. My father insisted that we should go.
+301. Where should we go?
+302. He feels very happy.
+303. I am sixteen years old.
+304. It's not my fault.
+305. May I help you?
+306. I can't do it.
+307. By the way, where are you from?
+308. Come again tommorow.
+309. She refused his proposal.
+310. You'd better not go.
+311. Sugar dissolves in water.
+312. What's in the box?
+313. Would you lend me your pen?
+314. The pain was terrible.
+315. Whose is this book.
+316. Tom was sick in bed last Sunday.
+317. Tom likes to play baseball.
+318. Do you smoke?
+319. Does someone here speak Japanese?
+320. He can swim well.
+
+### Intermidate level
+
+271. I swear I will never do such a thing.
+272. I don't think I can help you very much.
+273. I got up early enough to catch the first train.
+274. I didn't expect to see you at a place like this.
+275. He has three times as many books as I have.
+276. I can't believe your parents let you come here by yourself.
+277. Did you forget to lock the door last night?
+278. I always take a bath before going to bed.
+279. She got all dolled up for her big date.
+280. Plastics have taken the place of many conventional materials.
+281. What time does the train for the New York depart?
+282. You should try to form the habit of using your dictionaries.
+283. Prices are double what they were ten years ago.
+284. The dolphine and trainer communicated much better than we expected.
+285. She was at a loss for words to express her feeling.
+286. I've been waiting for since 2 o'clock.
+287. I wouldn't be too surprised if this song became a hit.
+288. I felt a drop of rain on my head.
+289. You should not have lent the money to such a person.
+290. I've done bad things that I should be punished for.
+291. I can't go with you because I am very busy.
+292. I can't put up with that noise any longer.
+293. You may as well tell me all about it.
+294. A good cooker doesn't throw out yeasterday soup.
+295. I couldn't enter because the door was closed.
+296. For some reason the micophone didn't work earlier.
+297. The weather was so cold that the lake froze over.
+298. How come you know so much about Japanese history.
+299. The coral reef is the region's prime attraction.
+300. Their contract is to run out at the end of this month.
+301. Some people like red wine and some people like white wine.
+302. There is no point in pretending to be sick.
+303. This is the best book that I've ever read.
+304. He wrote this book at the age of twenty.
+305. Don't translate English to Japanese word for word.
+306. You didn't come to school yeasterday, did you?
+307. The date of the festival coincides with that of the exam.
+308. I like swiming , but I don't like to swim here.
+309. We all consider your idea to be impractical.
+310. She went into her room to change her dress.
+311. The town was destroyed by the flood after the storm.
+312. She came to the Japan for the purpose of studying Japanese.
+313. I am going to stay here for a couple of days.
+314. Make sure to turn off all the lights before going out.
+315. If I had taken that plane. I would be dead now.
+316. A fire broke out my neighborhood last night.
+317. I have to abstain from smoking while I was in the hospital.
+318. Marriagi is the main cause of all divorces.
+319. Let me help you, your bag looks very heavy.
+320. A trip to America was eauivalent to a two-year salary for her.
