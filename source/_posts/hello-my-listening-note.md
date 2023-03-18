@@ -560,3 +560,101 @@ jk### Primary level
 223. He does nothing but complian from morning till night.
 224. The whole neighborhood was surprised at the news.
 225. Books are for people who wish they were somewhere else.
+
+## 2023-03-11
+
+### Primary level
+
+226. Can you come for dinner tonight?
+227. Everybody likes him.
+228. Is he your teacher?
+229. Due to bad wheather, the plane was late.
+230. I am gaining weight.
+231. The girl's eyes were filled with tears.
+232. He played tennis.
+233. Why do you say that?
+234. Does this bus go to the beach?
+235. Tell me what you want.
+236. I don't like coffee.
+237. Why did you do that?
+238. He didn't answer my question.
+239. That boy is running.
+240. They are pretty.
+241. We will keep it for you untill you leave.
+242. The girls began to laugh.
+243. I am terribly hungry.
+244. I often see him.
+245. I play video games.
+246. We have few opportunities to speak German.
+247. What a beautiful flower!
+248. Count me in.
+249. My father died of lung cancer.
+250. I'll tell you a secret.
+251. I quit smoking two years ago.
+252. This is Marry's dog.
+253. He is always short of money.
+254. How did you make it?
+255. He died recently.
+256. Children should play outside.
+257. She plays the guitar.
+258. I'll come back.
+259. Tell me about it.
+260. I received your letter.
+261. Pairs is the capital of France.
+262. She is practicing the violin now.
+263. The new museum is worth to visting.
+264. I am free now.
+265. The island is worm all year.
+266. I persuaded him to take part in it.
+267. She is about to leave.
+268. She spoke as though nothing had happend.
+269. This cake is sweet.
+270. They vist us from time to time.
+
+### intermediate
+
+226. Since my mom was sick, I stayed home from school.
+227. Our music teacher advised me to visit Vienna.
+228. Flunency in English is a very marketable skill today.
+229. My father has been in good shape since his operation.
+230. Would you like to have a drink before dinner?
+231. Finish the report by tommorow is next to impossible.
+232. Honsty is the primary reason for his success
+233. I was a high school student at that time.
+234. She doesn't has as much patience as you do.
+235. You'd better wear a sweater under your jacket.
+236. I was just about to come to looking for you.
+237. I always have to wear a tie because of my job.
+238. You have to turn in the reports on Monday.
+239. What will you be doing at this time tommorow.
+240. It is definite that he will go to America.
+241. The wheather was not only cold, it was also damp.
+242. To tell the truth, I don't agree with you.
+243. I took it for granted that he would keep his word.
+244. I don't know if I'll have time to do it.
+245. We should have taken the schedule into consideration.
+246. The job looked quite simple, but it took me a week.
+247. Our teacher has a wonderful sense of humor.
+248. You can't drink seawater, because it is too salty.
+249. Is it always a sin to tell a lie?
+250. English is a universal language, and is used all over the world.
+251. This book is too difficult for you to read.
+252. The red flag indicated the presence of danger.
+253. Let's divide this money between you and me.
+254. I wish that we could spend more time togather.
+255. Leaving something unfinished is the worst thing you can do .
+256. I wish I could go to the party with you.
+257. People are more educated now than they used to be.
+258. She can sing better than anyone else in her class.
+259. He studied hard in order to get into college.
+260. I can speak Chinese, but I can't read it.
+261. She wrote him a long letter, but he didn't read it.
+262. She likes tennis and became a tennise coach.
+263. I hope everything will be fine in the end.
+264. We lost sight of the man in the crowd.
+265. I'm sure I can find something for you to do.
+266. There are a lot of new buildings here now.
+267. I walk my dog in the park every morning.
+268. My son is now as tall as I am.
+269. A woman visited us while you were sleeping.
+270. I swear I will never do such a thing.
