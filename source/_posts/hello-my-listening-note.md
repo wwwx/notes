@@ -766,3 +766,134 @@ jk### Primary level
 318. Marriagi is the main cause of all divorces.
 319. Let me help you, your bag looks very heavy.
 320. A trip to America was eauivalent to a two-year salary for her.
+
+## 2023-04-09
+
+### Primary level
+
+321. I have many friends in foreign counties.
+322. There is no hope of success.
+323. We lost the game.
+324. You left your lights on.
+325. It took five minutes to get to the station.
+326. I don't like this sweater.
+327. Where do you want to go?
+328. I'll do my best.
+329. My uncle gave me a camera.
+330. It may rain tommorow.
+331. My father smokes.
+332. When does it end?
+333. I want to learn how to swim.
+334. She left me a note.
+335. The door is open now.
+336. He advised her to stop drinking.
+337. English is difficult to learn.
+338. You are absolutely right.
+339. Did you call your friend in Canada?
+340. They greeted me with a smile.
+341. My room faces east.
+342. It's your turn to sing.
+343. The work is now in progress.
+344. I stayed up late last night.
+345. Everybody loves music.
+346. Do you know when she will come?
+347. He began running.
+348. I have an earache.
+349. Is there a curfew?
+350. I had all my clothes washed by my mother.
+351. You'd better not go there.
+352. He was robbed of all his money.
+353. What does she have?
+354. The printer needs paper.
+355. He knocked his knee against the chair.
+356. How much is this tie?
+357. Don't spill the beans.
+358. A strong wind was blowing.
+359. They are all the same.
+360. Don't ask me for money.
+361. Does this hurt?
+362. He plays soccer.
+363. Do you know how to play chess?
+364. Read after me.
+365. He is introverted.
+366. Which do you perfer, apples or bannas?
+367. We arrived at the office on time.
+368. This book isn't worth reading.
+369. I need to get some sleep.
+370. He stopped the car.
+
+### Intermidate level
+
+321. He has just published an interesting series of articles.
+322. What makes you think I won't be able to do it.
+323. I wonder if you have something to write with.
+324. I would like to leave this town and never come back.
+325. It makes sense to pay off your credit card balance every month.
+326. Lake Baikal in Russia is the deepest lake in the world.
+327. What is the total amount of money you spent?
+328. I don't know what to say to make you feel better.
+329. He always plans a thing out carefully before he does it.
+330. The crane, unlike the dog, has never dreamed of flying.
+331. Ther Tiger lost the game, which was a surprised to us.
+332. If you hurry, you will catch up with him.
+333. He amazed everyone by passing his driving test.
+334. I want you to stay here until I get back.
+335. All of a sudden, three dogs appeared in front of us.
+336. I'm going to my room, where I can study.
+337. Don't forget to put a stamp on your letter.
+338. She told me that she would go to Paris in August.
+339. You should know better than to ask a lady her age.
+340. My father always speaks in a very loud voice.
+341. Did you have a good time on your trip to London.
+342. Let me give you a lift as far as the station.
+343. China is about twenty-five times as large as Japan.
+344. How long would it take to swim across the river.
+345. I love her so much that I can't leave her.
+346. What is the distance between New York and London.
+347. It's very big of you to admit you're wrong.
+348. Let's go and see as many things as we can.
+349. There are a lot of things you don't know about my personality.
+350. I couldn't put up with her arrogant behavior.
+351. You shouldn't share too much private information on the social networks.
+352. She waved her hand until the train was out of sight.
+353. In a way you are right, but I still have doubts.
+354. That's the computer on which he writes his articles.
+355. He said he dit not know the man, which was a lie.
+356. English is not easy, but it is interesting.
+357. I don't like the way you laugh at her.
+358. He is not as intelligent as his older brother.
+359. It took me a little more time than usual to fall asleep.
+360. Are you aware of how much she loves you?
+361. My room is three times as large as yours.
+362. Our eyes take time to adjust to the dark.
+363. You had better take an umbrella with you today.
+364. The space race was an exciting time in history.
+365. I always rely on him in times of trouble.
+366. If he studied hard, he would pass the test.
+367. You can get from Washington to New York by train.
+368. Thanks very much for having me to dinner the other night.
+369. If it is fine tommorow, we'll go on a picnic.
+370. Take your hat off when you enter a house of worship.
+
+### Upper middle level
+
+1. 这些问题越难，我能回答出的可能性就越小。
+2. 罗伯特太忙了，他不得不拒绝了打高尔夫球的邀请。
+3. 这只骆驼很温顺，任何人都可以骑它。
+4. 他们在一边盖了二十五层楼，另一边盖了三十五层楼。
+5. 例如，如果你处在我的位置，你会怎么做？
+6. 我非常乐意协助你的工作。
+7. 虽然苏珊只有十二岁，单她知道怎么样过日子。
+8. 汤姆做的每一件事都做得很好。
+9. 我们应该牢记所谓的智慧不仅仅是一种知识。
+10. 当所有的麻烦得到解决后，我感到如释负重。
+11. 如果我能重生，我会成为一名音乐家。
+12. 抹香鲸能潜入 1000 米深的水中。
+13. 当你在拉斯维加斯的时候，很容易忘记时间。
+14. 我和你一起走到车站。
+15. 托尼去波士顿是为了一项重要的交易。
+16. 据新闻报道，截止下午 5 点，执政联盟已获得 72 个席位。
+17. 你不知道他两年前就去世了吗？
+18. 叉子和筷子很受欢迎，是因为它们可以很轻松的处理滚烫的食物。
+19. 是史密斯先生告诉我如何使用那台机器的。
+20. 在芬兰和挪威这样的国家，冬天雪很多。
