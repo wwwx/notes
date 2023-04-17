@@ -897,3 +897,50 @@ jk### Primary level
 18. 叉子和筷子很受欢迎，是因为它们可以很轻松的处理滚烫的食物。
 19. 是史密斯先生告诉我如何使用那台机器的。
 20. 在芬兰和挪威这样的国家，冬天雪很多。
+
+## 2023-04-18
+
+### Primary level
+371. Please answer the phone.
+372. You will never realize what I went through.
+373. Keep an eye on the bags.
+374. What time did you arrive there?
+375. I am counting on you.
+376. Your dreams have com true.
+377. I've met him on several occasions.
+378. He is wathing TV.
+379. Few people can speak a foreign language perfectly.
+380. Are seats available?	 
+381. We reached London at midnight.
+382. Give me a hand with this bag.
+383. I mean no harm.
+384. That's what we want to know.
+385. Tomorrow is Mother's Day.
+386. He was born in Africa.
+387. He was at home.
+388. My family goes Italy every year.
+389. I'm sorry, I dropped my knife.
+390. You look very tired.
+
+### Intermidate level
+
+371. Is this ladder strong enough to bear my weight? 
+372. One million people lost their lives in the war.
+373. I had hoped that my mother would live until I got married.	  
+374. You have to get this work finished by noon.
+375. The doctor told her that she should take a rest. 
+376. If you by me an ice cream , I'll give you kiss.
+377. You are free to do as you please with your money. 
+378. The young man put out his hand and I shock it.
+379. He is going to drive you to airport.
+380. A doctor told me that eating eggs was bad for me.	 
+381. When she saw that they had no schools, she started one.	  
+382. His mother sat up all night waiting for her son. 
+383. Sir that CD is available only by speical order.
+384. I thank you from the bottom of my heart.	 
+385. It was not until I reached home that I missed my purse. 
+386. This place has mysterious atmosphere to it.
+387. I recognize that what he says is the truth.
+388. I should have know better than to call him.
+389. I made a bet that she would win the game.
+390. I don't like tea, so generally I drink coffee for breakfast.
