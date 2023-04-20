@@ -944,3 +944,50 @@ jk### Primary level
 388. I should have know better than to call him.
 389. I made a bet that she would win the game.
 390. I don't like tea, so generally I drink coffee for breakfast.
+
+## 2023-04-20
+
+### Primary level
+391. I was not as strong as my father. 
+392. He comes round once a week.
+393. I like skiing very much.
+394. Have you ever been Africa? 
+395. Who painted this picture?
+396. I'll call again later.
+397. It's seems to me that he is honest.
+398. I hurried in order to catch the first train.
+399. I saw him just now.
+400. I've lost a little weight.
+401. Thank you in advance.
+402. I nearly made a mistake.
+403. My telephone is out of order.
+404. What do you usualy do on sundays?
+405. Do as you like.
+406. What time will dinner be served?
+407. Why are you so late?
+408. She traveled all over the world.
+409. The boy acknowledged having lied.
+410. I felt very happy.
+
+### Intermediate level
+
+391. He has not writen to us since last February.
+392. Can you please tell your name once more?
+393. That was the first time that a man walked on the moon.
+394. I broke a glass when I did the dishes.
+395. Did you check all the items on the shopping list? 
+396. She was too short to see over the fence.
+397. Islam first reached China about the middle of the 7th century.
+398. He is not as smarter as his old brother.
+399. How long does it take to get to the train station?
+400. Some of them are healthy , but others are not.
+401. My son is going to leave for France next week.
+402. It is like looking for a needle in a haystack.
+403. Switch on the light, I can't see anything.
+404. Let's talk over a cup of tea, shall we?
+405. If he is innocent, it follows that his wife is guilty. 	
+406. Scientist can easily computed the distance between planets.
+407. A foreign language cannot be mastered in a year or so. 
+408. The police think the burglar entered through a basement window.
+409. I don't like to go out when it's dark.
+410. She was advised by him to go to the police.
