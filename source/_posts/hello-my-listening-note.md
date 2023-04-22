@@ -901,6 +901,7 @@ jk### Primary level
 ## 2023-04-18
 
 ### Primary level
+
 371. Please answer the phone.
 372. You will never realize what I went through.
 373. Keep an eye on the bags.
@@ -910,7 +911,7 @@ jk### Primary level
 377. I've met him on several occasions.
 378. He is wathing TV.
 379. Few people can speak a foreign language perfectly.
-380. Are seats available?	 
+380. Are seats available?
 381. We reached London at midnight.
 382. Give me a hand with this bag.
 383. I mean no harm.
@@ -924,21 +925,21 @@ jk### Primary level
 
 ### Intermidate level
 
-371. Is this ladder strong enough to bear my weight? 
+371. Is this ladder strong enough to bear my weight?
 372. One million people lost their lives in the war.
-373. I had hoped that my mother would live until I got married.	  
+373. I had hoped that my mother would live until I got married.
 374. You have to get this work finished by noon.
-375. The doctor told her that she should take a rest. 
+375. The doctor told her that she should take a rest.
 376. If you by me an ice cream , I'll give you kiss.
-377. You are free to do as you please with your money. 
+377. You are free to do as you please with your money.
 378. The young man put out his hand and I shock it.
 379. He is going to drive you to airport.
-380. A doctor told me that eating eggs was bad for me.	 
-381. When she saw that they had no schools, she started one.	  
-382. His mother sat up all night waiting for her son. 
+380. A doctor told me that eating eggs was bad for me.
+381. When she saw that they had no schools, she started one.
+382. His mother sat up all night waiting for her son.
 383. Sir that CD is available only by speical order.
-384. I thank you from the bottom of my heart.	 
-385. It was not until I reached home that I missed my purse. 
+384. I thank you from the bottom of my heart.
+385. It was not until I reached home that I missed my purse.
 386. This place has mysterious atmosphere to it.
 387. I recognize that what he says is the truth.
 388. I should have know better than to call him.
@@ -948,10 +949,11 @@ jk### Primary level
 ## 2023-04-20
 
 ### Primary level
-391. I was not as strong as my father. 
+
+391. I was not as strong as my father.
 392. He comes round once a week.
 393. I like skiing very much.
-394. Have you ever been Africa? 
+394. Have you ever been Africa?
 395. Who painted this picture?
 396. I'll call again later.
 397. It's seems to me that he is honest.
@@ -975,7 +977,7 @@ jk### Primary level
 392. Can you please tell your name once more?
 393. That was the first time that a man walked on the moon.
 394. I broke a glass when I did the dishes.
-395. Did you check all the items on the shopping list? 
+395. Did you check all the items on the shopping list?
 396. She was too short to see over the fence.
 397. Islam first reached China about the middle of the 7th century.
 398. He is not as smarter as his old brother.
@@ -985,9 +987,97 @@ jk### Primary level
 402. It is like looking for a needle in a haystack.
 403. Switch on the light, I can't see anything.
 404. Let's talk over a cup of tea, shall we?
-405. If he is innocent, it follows that his wife is guilty. 	
+405. If he is innocent, it follows that his wife is guilty.
 406. Scientist can easily computed the distance between planets.
-407. A foreign language cannot be mastered in a year or so. 
+407. A foreign language cannot be mastered in a year or so.
 408. The police think the burglar entered through a basement window.
 409. I don't like to go out when it's dark.
 410. She was advised by him to go to the police.
+
+## 2023-04-22
+
+### Primary level
+
+411. The weather is usually hot in July.
+412. I know none of them.
+413. My sister is shorter than you.
+414. Black cloth absorbs light.
+415. They went to the zoo by bus yesterday.
+416. I can't sleep.
+417. Everybody wants to be happy.
+418. I don't feel like eating out this evening.
+419. Will you show me your photo album?
+420. My house is near the station.
+421. I bought it.
+422. I guess that she is 40.
+423. This bus can hold fifty people.
+424. leave me along, please.
+425. I'd like to send this package to Japan.
+426. They are my classmates.
+427. This beer is not cold enough.
+428. I can swim well.
+429. I have been ill in bed since last Friday.
+430. Don't turn off the light.
+431. He knows a lot of people.
+432. Your bath is ready.
+433. Did she come with him?
+434. Can you speak French?
+435. I wish I could fly like a bird.
+436. He is afraid of becoming sick.
+437. You will stay at home.
+438. I want someone to talk to.
+439. I neither smoke nor drink.
+440. Elephants live in Asia and Africa.
+441. I felt hungry.
+442. I looked for the key.
+443. Since I was thirsty, I drank water.
+444. I object to her going there alone.
+445. He stoped to talk to them.
+446. I have to iron my shirt.
+447. What did you talk about?
+448. We've already done our work.
+449. Physics is my favorite subject.
+450. Be quiet, or the baby will wake up.
+
+### Intermediate level
+
+411. She was advised by him to go to the police.
+412. I'm going off to Vancouver next week to see my sister.
+413. I'd like to leave this town and never come back.
+414. I plan to stay at home all day tomorrow.
+415. It's a good thing to read good books when you are young.
+416. The truth is that nothing is totally true or false.
+417. More money for education will spur economic growth.
+418. One hundred and fifty people entered the Marathon race.
+419. She was ashamed of herself for her carelessness.
+420. Once he had writen the letter, he sent it.
+421. The teacher has a great influence on his pupils.
+422. It is true that she is pretty, but she is selfish.
+423. Do I have to take off my shoes here?
+424. You remind me of a boy I used to know.
+425. As far as I know, he did nothing wrong.
+426. Mary is not poor, On the contrary, she is quite rich.
+427. Can you imagine what the 21st century will be like?
+428. As long as you keep quiet, you can stay here.
+429. My father is too buzy to take a walk.
+430. Some baby learn to swim even before they are one year old.
+431. All the signs are that she is getting better.
+432. Apart from rainy days , I always ride my bike to work.
+433. Two month has pasted since he left for France.
+434. I would badly miss you if you leave Japan.
+435. I'll call for you at 8 tomorrow morning.
+436. You haven't washed your hands yet, have you?
+437. The school is 5 kilometers from my home.
+438. There is no denying that she is very efficient.
+439. We met in a coffee shop near the campus.
+440. It is sometimes difficult to make yourself understood in public.
+441. I would like to have a cup of coffee.
+442. There is a certain amount of truth in what he's saying.
+443. Keep an eye on the child for me for a moment.
+444. London , the capital of England, is on the Thames.
+445. There is nothing warse than doing something in a half-hearted manner.
+446. I went to the hospital to have my eyes tested.
+447. The phone rang while I was taking a shower.
+448. It looks like the dog wants something to eat.
+449. You are old enough to know better than to act like that.
+450. What is the difference between this and that.
