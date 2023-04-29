@@ -1081,3 +1081,111 @@ jk### Primary level
 448. It looks like the dog wants something to eat.
 449. You are old enough to know better than to act like that.
 450. What is the difference between this and that.
+
+## 2023-04-29
+
+### Primary level
+
+451. This house needs painting.
+452. Whose room is this?
+453. I waited for her for a log time.
+454. Do you like black cats?
+455. He came back from America.
+456. I want to go to America some day.
+457. You can go to the station by bus.
+458. We saw clouds above the mountain.
+459. He can drive a car.
+460. He took off his glasses.
+461. It is likely to rain today.
+462. She wants to be a designer.
+463. The Netherlands is small country.
+464. Were you out last night?
+465. I can't check my mail because the server is down.
+466. She likes oranges.
+467. My father made be wash the car.
+468. He seems honest.
+469. His temperture is normal.
+470. The school is two kilometers ahead.
+471. I got acquainted with her in France.
+472. You must pay attention to him.
+473. I beginning to remember it.
+474. Time is the most precious thing.
+475. Fruits have seeds them.
+476. This book is not for sale.
+477. Have you eaten lunch yet?
+478. I'm still busy.
+479. Do you have one?
+480. This is a very old book.
+481. I have an appointment with him at six.
+482. My money was stolen.
+483. I'd like to call my parents.
+484. Close your eyes, please.
+485. Don't forget to write to me.
+486. I'm not in favor of such a plan.
+487. She got up at seven in the morning.
+488. I learned a lot from him.
+489. The dog was digging a hole.
+490. I hope that you will get well soon.
+491. He accepted the job.
+492. Not all of us can speak English.
+493. It is very cold today, isn't it?
+494. I'd like to have a coffee.
+495. Answer the phone.
+496. Please follow me.
+497. I want a tie to go with this suit.
+498. I speak a little Japanese.
+499. Here is my bicycle.
+500. You must study hard.
+
+### Intermediate level
+
+451. We all wondered why she had dumped such a nice man.
+452. A bicycle will rust if you leave it in the rain.
+453. There are fifty states in the United States.
+454. It is not eazy to learn a foreign language.
+455. In a crisis, you must get in touch with your teacher.
+456. To the best of my knowledge, the rumor is not true.
+457. He crashed his car because someone tampered with the brakes.
+458. I met him just as he was coming out of school.
+459. I know an English teacher who comes from Canada.
+460. If you can't have children, you could always adopt.
+461. His absence gave birth to all sorts of rumors.
+462. I go to the office by bicycle except on rainy days.
+463. Do you think he is good for the position?
+464. I am not as stupid as you think I am.
+465. She has been absent from school for five days.
+466. We promised to stand by him in case of trouble.
+467. The average height of the girls in class is over 155 centimeters.
+468. The enemy dropped many bombs on the factory.
+469. I admit this may is not the best way of doing it.
+470. I ran across an old friend near the bank.
+471. It's beeen a long time since we last saw each other.
+472. I slept a little during the lunch break because I was so tired.
+473. You do your pard and I'll do the rest.
+474. The man reading a paper over there is my uncle.
+475. As soon as the door opened, they went away.
+476. We take it for granted that he will succeed in his business.
+477. I don't care what color ink, just bring me a pen.
+478. The internet is an invaluable source of information.
+479. I don't want to be involved in that matter.
+480. The show was very interesting You should have seen it.
+481. I'm going to run a couple of errands. Wanna tag along?
+482. I'd like to try this on. Where are the fitting rooms?
+483. The old church on the hill dates back to the twelfth centry.
+484. This guiderbook might be of use you on your trip.
+485. I can't get at the exact meaning of the sentence.
+486. I don't want to live my life in fear.
+487. A caged cricket eats just as much as a free cricket.
+488. I'd like to live in the suburbs of Kobe.
+489. I found the secret compartment quite by accident.
+490. Weather permitting, we'll leave in an hour.
+491. They wanted a wedding picture in front of the Eiffel Tower.
+492. I have a lot of friends to help me.
+493. He amassed a fortune in stock trading during the last boom.
+494. Everyon eis anxious to know what has become of the former champion.
+495. Sorry, but can you show me the way to the next village?
+496. Are you going to visit any other countries?
+497. The entire sales staff has worked around the clock for a week.
+498. Will you please explain the meaning of this sentence to me?
+499. Please remind me to mail the report tomorrow.
+500. Would you like to go to the zoo this afternoon?
