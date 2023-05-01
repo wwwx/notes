@@ -1189,3 +1189,69 @@ jk### Primary level
 498. Will you please explain the meaning of this sentence to me?
 499. Please remind me to mail the report tomorrow.
 500. Would you like to go to the zoo this afternoon?
+     J
+
+## 2023-04-30
+
+### Primary level
+
+501. I wish I had a house of my own.
+502. Wash your face.
+503. I plainning to study tonight.
+504. The girl resembled her mother.
+505. When was it built?
+506. There is no evidence.
+507. This bridge was built two years ago.
+508. Can I use this bike?
+509. I returned home by train.
+510. Whose friend is he?
+511. Aren't you thirsty?
+512. This hat is mine.
+513. I perfer meat to fish.
+514. I went to Boston by train.
+515. Your dog always barks at me.
+516. I'm not always at home on Sundays.
+517. Stay at home so that you can answer the phone.
+518. She reluctantly went by herself.
+519. He is two years older than Mary is.
+520. Our project failed.
+521. Where is the end of this line?
+522. Will you please call me this evening?
+523. How long will you stay here?
+524. He went to a fruit store first.
+525. Will help me with my homework?
+526. Are you coming with me?
+527. My mother is two years younger than my father.
+528. He explained the matter to me.
+529. Would you please stop talking?
+530. Who broke the vase?
+531. Are you free this afternoon?
+532. Water freezes at 0 degrees Centigrade.
+533. May I go to the movies tonight?
+534. Please pass me the sugar.
+535. This flower is beautiful, isn't it?
+536. I need some paper.
+537. My brother sends you his regards.
+538. The plane flew over the montain.
+539. I saw him jump.
+540. He is a clever boy.
+541. He usually gets up at six.
+542. Do you see him often?
+543. I must visit my friend in the hospital.
+544. Let's take a break.
+545. I went there yesterday.
+546. I went for a walk in the park.
+547. I want a good dictionary.
+548. I'd like to see the doctor soon.
+549. I'm too busy to help him.
+550. He ran as fast as he could.
+551. It's on the eighth floor.
+552. Please do it quickly.
+553. I need a new bicycle.
+554. It's a pity that you can't come.
+555. It's secret.
+556. Why don't you come to the movies with me?
+557. We had luch at noon.
+558. What would happend?
+559. I am learning music.
+560. You look pale.
