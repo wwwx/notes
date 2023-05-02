@@ -1255,3 +1255,48 @@ jk### Primary level
 558. What would happend?
 559. I am learning music.
 560. You look pale.
+
+## 2023-05-01
+
+### Primary level
+
+561. The telephone rang several times.
+562. I didn't go to school last month.
+563. What are you going to have?
+564. You were wrong after all.
+565. He couldn't understand the sentence.
+566. I envy him.
+567. I am happy.
+568. They have English lessons three times a week.
+569. I used to take a walk every morning.
+570. We usually have lunch at noon.
+571. I wanted red shoes.
+572. I visited this village when he was born.
+573. Does she speak French?
+574. We depend on you.
+575. Once more, please.
+576. We had a very hot summer this year.
+577. It was so dark that they could hardly see.
+578. I am from Singapore.
+579. She told me that she knew my brother.
+580. She went from London to Paris.
+581. He plays golf on weekends.
+582. Time flies like an arrow.
+583. He's been studying for two hours.
+584. Nothing remained in the refrigerator.
+585. She stayed at the hotel for serveral days.
+586. Show me another camera.
+587. You look pale today.
+588. You must keep your room clean.
+589. You like English, don't you?
+590. I fell in love with her at first sight.
+591. Have you ever seen Tokyo Tower?
+592. She'll do it in 24 hours.
+593. I failed the tests.
+594. I wounder If she will marry him.
+595. His hands were empty.
+596. You have a little fever today, don't you?
+597. Don't make a mistake.
+598. When do you play tennis?
+599. You are no younger than I am.
+600. When I came home, John was studying.
