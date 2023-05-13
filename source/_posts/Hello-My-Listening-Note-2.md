@@ -57,3 +57,63 @@ tags:
 48. Put that in writing.
 49. He is still young.
 50. He promised to come, but he didn't come.
+51. I like that young man.
+52. It is difficult for me to answer the question.
+53. I got my right leg hurt in the accident.
+54. He was just behind me.
+55. Add a little sugar and cream.
+56. He is the captain of the team.
+57. A majority voted against the bill.
+58. Whose shoes are these?
+59. I can't swim.
+60. Do you go to school by bus?
+61. I need first aid.
+62. I am so happy.
+63. He painted the ceiling blue.
+64. I hope you're having fun.
+65. That bridge is anything but safe.
+66. He was sitting on a bench.
+67. She went home.
+68. You really shouldn't use pirated software.
+69. He doesn't know English, much less French.
+70. I don't know if she will come.
+71. Where is the restroom?
+72. Would you like me to help you?
+73. The boy tried moving the heavy sofa.
+74. All of us were silent.
+75. We would like to stay here tonight.
+76. He enter my room without permission.
+77. How many books do you have.
+78. Did you here someone ring the doorbell?
+79. She is good at speaking English.
+80. My mother has four brothers.
+81. Whose pencil is this?
+82. These grapes are ripe.
+83. We thought that you were married.
+84. Hey, what happend?
+85. Put this sentence into English.
+86. We are the first to arrive.
+87. He got angry.
+88. I don't like it at all.
+89. What do you have?
+90. I can't stand up.
+91. One of these two answers is right.
+92. They live downstairs.
+93. I helped him yesterday.
+94. Can you pick me up at the station.
+95. Can you help me?
+96. I go home early every day.
+97. Who is that woman?
+98. You'll get well soon.
+99. This blouse is cotton.
+100. You have made the very same mistake again.
+101. I am pretty sure.
+102. There is no smoke without fire.
+103. My work is finished.
+104. My joints ache.
+105. I can ride a horse.
+106. I remember seeing her somewhere.
+107. I can't stop laughing.
+108. They forgot to lock the door.
+109. My mother cut the cake.
+110. Take off your socks, please?
