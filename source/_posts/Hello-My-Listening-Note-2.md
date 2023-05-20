@@ -117,3 +117,73 @@ tags:
 108. They forgot to lock the door.
 109. My mother cut the cake.
 110. Take off your socks, please?
+111. She kicked the door.
+112. Let's have lunch.
+113. There is a page missing.
+114. Follow his example.
+115. Those books are mine.
+116. My stomach is growling.
+117. I told him to come.
+118. Don't tell lies.
+119. I'll be with you in a second.
+120. I haven't finish my homework yet.
+121. May I ask you something?
+122. Tom wants to go to Japan.
+123. We will never agree.
+124. I have to go now.
+125. It's up to you.
+126. Which is mine?
+127. It's the third of October.
+128. Tom finally give up somking.
+129. A piano is expensive.
+130. Mary can dance will.
+131. He often makes people angry.
+132. I didn't take part in the conversation.
+133. What happened?
+134. He still writes to me from time to time.
+135. She hang the calendar on the wall.
+136. She has just turned twelve.
+137. Let's finish it right away.
+138. Not all children like apples.
+139. I think we had better wait another thirty minutes.
+140. Take off your coat and make youself at home.
+141. My homework is nearly complete.
+142. I'm waiting for the bus.
+143. He seemed to have been very happy.
+144. I can't help it.
+145. They have their own troubles.
+146. I will do it myself.
+147. I know she is sleeping.
+148. I am very busy.
+149. I go to my father's place twice a year.
+150. I usually eat out.
+151. My idea is quite different from yours.
+152. What did he say?
+153. I'm tired now.
+154. All our plans went wrong.
+155. I must return home within a week.
+156. come and help us.
+157. Eat everything.
+158. I ate a hamburger and ordered another.
+159. Those are their books.
+160. The knife is not sharp.
+161. He is stronger than I am;
+162. I can do it in half the time.
+163. The boy ran away.
+164. I have lost my pen.
+165. Your bike is better than mine.
+166. Why is it so hot?
+167. They have lived in this town for then years.
+168. I have a suggestion.
+169. He broke the world record.
+170. I got married 8 ears ago.
+171. She has flowers in her hand.
+172. We were in a hurry.
+173. He is crazy about baseball.
+174. He was busy yesterday afternoon.
+175. Do you mind if I open the window?
+176. She doesn't understan me, either.
+177. He is said to be a good doctor.
+178. My father was busy.
+179. Wait for a moment outside the room.
+180. How far is it from here?
