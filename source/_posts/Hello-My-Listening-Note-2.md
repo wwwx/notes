@@ -187,3 +187,93 @@ tags:
 178. My father was busy.
 179. Wait for a moment outside the room.
 180. How far is it from here?
+181. The food is getting cold.
+182. He made an apology.
+183. Have you ever been to Tokyo?
+184. My wife will be glad to see you, too.
+185. Are you busy now?
+186. Nobody can break his record.
+187. The man robbed him of all his money.
+188. What time do we leave tomorrow?
+189. I put it in the drawer.
+190. I can't lift my right arm.
+191. Name and address, please.
+192. I will introduce her husband to you.
+193. You can go if you want to.
+194. He knows nothing about the plan.
+195. I belong to the baseball team.
+196. What are you interested in?
+197. I have a pretty dog.
+198. What is you address?
+199. You are genius.
+200. It rained hard all day.
+201. I want to marry you.
+202. I can't go , nor do I want to.
+203. How embarrassing!
+204. She lives quite close by.
+205. It's up to you to decide.
+206. I'll miss you.
+207. I can pill an apple.
+208. He has a passive character.
+209. Were you at home last night?
+210. He is still here.
+211. Excuse me, who are you?
+212. What did you eat for breakfast?
+213. Were you with anyone?
+214. By the way, are you free this afternoon?
+215. I awoke from the dream.
+216. It was a great shock to me.
+217. She is carrying a backpack on her back.
+218. He ran out of money.
+219. Can you run fast?
+220. I met nobody on my way home.
+221. Who is your teacher?
+222. Where can I rent a car?
+223. A turkey is a little bigger than a chicken.
+224. Don't let me down.
+225. I belong to the swimming club.
+226. What are they made of?
+227. Hold on to the rope.
+228. It's smell delicious.
+229. I don't like to speak in public.
+230. I would like you to come with me.
+231. I raised my hand and ask a question.
+232. Where is the entrance to the museum?
+233. She looks very lovely.
+234. I am glad to see you.
+235. He married my sister.
+236. Plants die without water.
+237. The girl resembles her mother.
+238. The twins look exactly alike.
+239. My brother works in a bank.
+240. I would like to eat sushi.
+241. He comes back from Sydney today.
+242. The box is made of wood.
+243. He uses honey instead of sugar.
+244. Obviously he is wrong.
+245. Have you ever been to Canada?
+246. Is it still raining?
+247. See if the gas is turned off?
+248. A sponge absorbs water.
+249. What do you do?
+250. No one could solve the problem.
+251. Is the dog swimming?
+252. I can't stand the noise.
+253. Ask him where he parked his car.
+254. I usually walk to school.
+255. A mosquito just bit me.
+256. I left my dictionary downstairs.
+257. Please come to my house.
+258. Please open the window.
+259. Asia is much larger than Australia.
+260. He was very happy.
+261. How's the weather in New York?
+262. Many people were deceived by the advertisement.
+263. Take care.
+264. Hi! how are you?
+265. He rang the doorbell.
+266. It was a dark night.
+267. I also like cake.
+268. Are you new here?
+269. He grows rice.
+270. Many of us were tired.
