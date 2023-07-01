@@ -277,3 +277,103 @@ tags:
 268. Are you new here?
 269. He grows rice.
 270. Many of us were tired.
+271. Tell me the story.
+272. Why were you absent yesterday?
+273. Don't stop here.
+274. Why are you so angry with him?
+275. Please lend me your car.
+276. Don't leave the window open.
+277. The shop was closed when I went there.
+278. I can't help crying.
+279. He is very depressed.
+280. For here , or to go?
+281. He wakes up early.
+282. Please take care of yourself.
+283. I want to close my account.
+284. I'll be busy tomorrow.
+285. Is there a supermarket near here?
+286. I think so.
+287. I have a headache.
+288. Angybody can do that.
+289. Tom likes swimming.
+290. Do you have some time?
+291. Keep your room clean.
+292. He is her friend.
+293. He was standing.
+294. He is a kind boy.
+295. You may go there.
+296. He knows a lot about animals.
+297. It's awfully hot today.
+298. He cheated on the biology exam.
+299. It is going to rain this afternoon.
+300. My headache has gone.
+301. You should follow your doctor's advice.
+302. There is no meat left in the fridge.
+303. This is too easy for him.
+304. There is a fork missing.
+305. He came to see me.
+306. Something is wrong with my email.
+307. I arrived just in time for the plane.
+308. How did you come to know each other?
+309. Her books sell pretty well.
+310. They never tell a lie.
+311. I wish I could.
+312. I home today's ball game won't be canceled.
+313. He is a very dangerous man.
+314. This is a little gift for you.
+315. He was married to her sister.
+316. Winter in New York can be very cold.
+317. I am going to start.
+318. I am accustomed to cold weather.
+319. It doesn't matter where her comes from.
+320. All the flowers in the garden are yellow.
+321. What time is it?
+322. She wears a lot of makeup.
+323. She runs faster than I do.
+324. What is she like?
+325. Have you ever returned home before seven?
+326. I will be back at half past six.
+327. The car is very fast.
+328. Have you ever seen a panda?
+329. Look at the map at on page 62.
+330. You look sick.
+331. He is eating.
+332. I don't know where my watch is.
+333. I'm afraid it will rain.
+334. Ask him when the next plane leaves.
+335. Good students study hard.
+336. It's very hot in here.
+337. I have to comb my hair.
+338. I'm just beginning.
+339. Where did you see the woman?
+340. Get me a chair, please?
+341. This book seemed interesting.
+342. Those books are theirs.
+343. He wants to see us again.
+344. He is capable of teaching French.
+345. He got up earlier than usual.
+346. Prices have jumped.
+347. When would it be convenient for you?
+348. I have a tourist visa.
+349. The policeman was off duty.
+350. He laughed in spite of himself.
+351. He has broken the record.
+352. Take it easy!
+353. I'll be back in a wink.
+354. I fell asleep before my father came home.
+355. I like your car.
+356. Shut your mouth.
+357. A driver was sleeping in the car.
+358. I don't like this jacket.
+359. Take anything you want.
+360. What are you going to do.
+361. This table is reserved.
+362. Never tell a lie!
+363. Beautiful day, isn't it?
+364. I'll call you later today.
+365. This makes no sense.
+366. May I borrow your dictionary?
+367. He writes books.
+368. There is a pair of scissors on the desk.
+369. It tasted sweet.
+370. He was patient.
