@@ -377,3 +377,33 @@ tags:
 368. There is a pair of scissors on the desk.
 369. It tasted sweet.
 370. He was patient.
+371. You made a wise choose.
+372. This is my daughter.
+373. I wonder if the plane will arrive on time.
+374. The chili burnt my tongue.
+375. I'm easygoing.
+376. I want to drive.
+377. You dress is very nice.
+378. How unlucky I am!
+379. Please pass me the butter.
+380. He was elected president.
+381. We live near a big library.
+382. The boy is kind.
+383. We have made friends with Tom.
+384. He described the scene in detail.
+385. I wish our classroom were air-conditioned.
+386. Let's open the window.
+387. Keep this money for me.
+388. Who broke this window.
+389. He ran into the room.
+390. Who painted these pictures.
+391. What are you doing.
+392. He is good at driving.
+393. I don't know whether to turn left or right.
+394. I'm glad you enjoyed it.
+395. Do you want to sit down.
+396. You will soon adapt yourself to this new life.
+397. Whose bag is this?
+398. This novel is difficult to understand.
+399. Staying home isn't fun.
+400. This book is yours.
